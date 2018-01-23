@@ -1,0 +1,49 @@
+﻿
+    /*//*************************************
+    //SPORTS PRO INC. (Lab3)(ASP.NET)
+    //CSS OVERALL STYLESHEET (CSS file)
+    //Dean Jones
+    //Jan.17, 2017
+    //**************************************/
+
+html {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    
+}
+body {
+    position: relative;
+    margin: 0;
+    border: 0 solid black; 
+    padding: 24px;
+    min-height:100%;
+	width:97%;
+    background-color: lightyellow;
+    float: right;
+	
+    font-family: "Verdana", "Times New Roman", "Helvetica Rounded", "Arial Rounded MT Bold", Arial, sans-serif;   
+    box-shadow: 2px 3px 65px 2px #8a6699 inset, 2px -2px 50px 0 rgba(247, 231, 244, 0) inset;
+}
+dropdownlist{
+    font-family: "Verdana", "Times New Roman", "Helvetica Rounded", "Arial Rounded MT Bold", Arial, sans-serif;   
+    font-size: 16px;
+    /*border-radius: 6px;*/
+}
+h1{
+ 
+}
+header{
+    padding-bottom: 20px;
+}
+footer{
+    padding-top: 30px;
+    float:left;
+}
+.gridview{
+    width: 100%;
+}
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}

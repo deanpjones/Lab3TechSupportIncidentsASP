@@ -1,0 +1,70 @@
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\ApplicationInsights.config
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\App_Data\TechSupport.mdf
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\App_Data\TechSupport_log.ldf
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\csc.exe
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\System.Collections.Immutable.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\vbc.exe
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\VBCSCompiler.exe
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\VBCSCompiler.exe.config
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Lab3TechSupportIncidentsASP.dll.config
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Lab3TechSupportIncidentsASP.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Lab3TechSupportIncidentsASP.pdb
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.Web.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.WindowsServer.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.ApplicationInsights.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.Web.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.WindowsServer.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.ApplicationInsights.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\obj\Debug\Lab3TechSupportIncidentsASP.csprojResolveAssemblyReference.cache
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\obj\Debug\Lab3TechSupportIncidentsASP.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\obj\Debug\Lab3TechSupportIncidentsASP.pdb
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\ApplicationInsights.config
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\App_Data\TechSupport.mdf
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\App_Data\TechSupport_log.ldf
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\csc.exe
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\System.Collections.Immutable.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\System.Reflection.Metadata.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\vbc.exe
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\VBCSCompiler.exe
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\roslyn\VBCSCompiler.exe.config
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Lab3TechSupportIncidentsASP.dll.config
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Lab3TechSupportIncidentsASP.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Lab3TechSupportIncidentsASP.pdb
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.Agent.Intercept.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.DependencyCollector.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.Web.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.WindowsServer.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.ApplicationInsights.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.DependencyCollector.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.Web.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.AI.WindowsServer.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.ApplicationInsights.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\obj\Debug\Lab3TechSupportIncidentsASP.csprojResolveAssemblyReference.cache
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\obj\Debug\Lab3TechSupportIncidentsASP.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab3TechSupportIncidentsASP\Lab3TechSupportIncidentsASP\obj\Debug\Lab3TechSupportIncidentsASP.pdb
